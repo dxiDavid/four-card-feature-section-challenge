@@ -75,7 +75,7 @@ I learned how to use pseudo elements, custom properties and most importantly to 
 - [Youtube](https://www.youtube.com/@KevinPowell) - This is where I found the best tutorials and explanations (For me) on CSS concepts and      writing functional CSS. Kevin Powel really knows his stuff and gives concise explanations.
 - [w3schools](https://w3schools.com) - This website has an entire course on CSS with simple examples for both basic and advanced concepts.
 - [CSS Tricks](https://css-tricks.com/) - This website provides very well written explanations to CSS concepts as well as examples for when you need to revisit a concept.
-- [mdn](https://developer.mozilla.org/en-US/) - Always helpful to read the documentation of any language.
+- [mdn docs](https://developer.mozilla.org/en-US/) - Always helpful to read the documentation of any language.
 
 ## Author
 
